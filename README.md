@@ -1,6 +1,6 @@
 # CS877 Project: Diabetes Risk Prediction via DiaHealth Dataset (Reproduction & Novelty)
 
-**Author:** Muhammad Hasnain Ali (Reg. No: 624370)  
+**Author:** Muhammad Hasnain Ali   
 **Institution:** School of Electrical Engineering and Computer Science (SEECS), NUST Islamabad  
 **Course:** CS877 – Artificial Intelligence & Machine Learning  
 **Target Paper:** *Machine Learning-Based Diabetes Risk Prediction via DiaHealth Dataset with Explainable AI and Streamlit Deployment* (*Future Internet*, 2026, 18(6), 331, DOI: `10.3390/fi18060331`)
